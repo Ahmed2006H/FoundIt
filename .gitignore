@@ -1,0 +1,17 @@
+
+# Private API keys and environment files
+.env
+.env.*
+groq_secret.php
+
+# Local test files
+config/test_db.php
+ai/test_groq.php
+
+# Temporary files and logs
+*.log
+*.tmp
+
+# Operating system files
+.DS_Store
+Thumbs.db
